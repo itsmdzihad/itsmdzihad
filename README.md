@@ -2,7 +2,7 @@
   <img src="https://github.com/ZIHAD22/ZIHAD22/blob/main/md%20kowsar%20ahmad%20zihad.png" alt="MD ZIHAD Banner" width="100%"/>
 </div>
 
-<h1 align="center">👋 Hello, I'm MD ZIHAD</h1>
+<h1 align="center">👋 Hello, I'm Md Kawsar Ahmed Zihad</h1>
 
 <p align="center">
   <a href="https://www.mdzihad.xyz"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio"/></a>
@@ -14,7 +14,7 @@
 
 ## 🚀 About Me
 
-Hello! I'm **MD ZIHAD**, a passionate **full-stack JavaScript developer** specializing in the **MERN stack**. With expertise in front-end web development using **React.js** and back-end development with **Node.js** and **Express**, I craft robust and efficient web applications.
+Hello! I'm **Md Kawsar Ahmed Zihad**, a passionate **full-stack JavaScript developer** specializing in the **MERN stack**. With expertise in front-end web development using **React.js** and back-end development with **Node.js** and **Express**, I craft robust and efficient web applications.
 
 From user authentication with **Firebase** to seamless payment integration using **Stripe**, I have a wide range of skills to bring your project to life. With attention to detail and a dedication to delivering high-quality code, I'm committed to exceeding client expectations.
 
@@ -88,9 +88,9 @@ From user authentication with **Firebase** to seamless payment integration using
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ZIHAD22&color=blueviolet&style=for-the-badge" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=itsmdzihad&color=blueviolet&style=for-the-badge" alt="Profile Views"/>
 </div>
 
 <div align="center">
-  <i>⭐️ From <a href="https://github.com/ZIHAD22">ZIHAD22</a></i>
+  <i>⭐️ From <a href="https://github.com/itsmdzihad">itsmdzihad</a></i>
 </div>
