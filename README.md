@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/ZIHAD22/ZIHAD22/blob/main/md%20kowsar%20ahmad%20zihad.png" alt="MD ZIHAD Banner" width="100%"/>
+  <img src="https://github.com/ZIHAD22/ZIHAD22/blob/main/md-kawsar-ahmed-zihad.jpeg" alt="MD ZIHAD Banner" width="100%"/>
 </div>
 
 <h1 align="center">👋 Hello, I'm Md Kawsar Ahmed Zihad</h1>
