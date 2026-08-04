@@ -85,18 +85,6 @@ I enjoy solving real-world problems, building AI-powered applications, and creat
 
 ---
 
-# 🔥 GitHub Streak
-
-<div align="center">
-
-<img
-src="https://streak-stats.demolab.com?user=itsmdzihad&theme=tokyonight&hide_border=true"
-/>
-
-</div>
-
----
-
 # 📈 Contribution Graph
 
 <div align="center">
