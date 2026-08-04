@@ -67,18 +67,18 @@ I enjoy solving real-world problems, building AI-powered applications, and creat
 
 ---
 
-# 📊 GitHub Statistics
+## 📊 GitHub Statistics
 
 <div align="center">
 
 <img
-height="180"
-src="https://YOUR_VERCEL_DOMAIN.vercel.app/api?username=itsmdzihad&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
+  height="180"
+  src="https://github-stats-extended.vercel.app/api?username=itsmdzihad&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"
 />
 
 <img
-height="180"
-src="https://YOUR_VERCEL_DOMAIN.vercel.app/api/top-langs?username=itsmdzihad&layout=compact&theme=tokyonight&hide_border=true"
+  height="180"
+  src="https://github-stats-extended.vercel.app/api/top-langs?username=itsmdzihad&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
 />
 
 </div>
